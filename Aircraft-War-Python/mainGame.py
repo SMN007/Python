@@ -2,7 +2,7 @@
 """
 Created on Wed Sep 11 11:05:00 2013
 
-@author: Leo
+
 """
 
 import pygame
@@ -15,7 +15,7 @@ import random
 # Initialize the game
 pygame.init()
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption('Aircraft War | Projecto.in')
+pygame.display.set_caption('Aircraft War')
 
 # Loading game music
 bullet_sound = pygame.mixer.Sound('resources/sound/bullet.wav')
