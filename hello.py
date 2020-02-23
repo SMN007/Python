@@ -257,12 +257,15 @@ if "model" in thisdict:
   print("Yes, 'model' is one of the keys in the thisdict dictionary")
 """
 
-a = 33
+'''a = 33
 b = 33
 if b > a:
   print("b is greater than a")
 elif a == b:
-  print("a and b are equal")
+  print("a and b are equal")'''
+
+
+
 
 
 
