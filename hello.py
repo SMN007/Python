@@ -245,6 +245,9 @@ empty_set = set()
 
 '''
 
+'''thistuple = ("apple", "banana", "cherry")
+print(thistuple[1]) #print tupple
+'''
 
 
 
