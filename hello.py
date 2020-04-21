@@ -249,9 +249,6 @@ empty_set = set()
 print(thistuple[1]) #print tupple
 '''
 
-'''market = ("apple", "banana", "cherry")
-print(market[1]) #print tupple
-'''
 
 
 
