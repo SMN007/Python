@@ -248,14 +248,14 @@ empty_set = set()
 '''thistuple = ("apple", "banana", "cherry")
 print(thistuple[1]) #print tupple
 '''
-thisdict = {
+"""thisdict = {
   "brand": "Ford",
   "model": "Mustang",
   "year": 1964
 }
 if "model" in thisdict:
   print("Yes, 'model' is one of the keys in the thisdict dictionary")
-
+"""
 
 
 
