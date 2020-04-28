@@ -291,6 +291,14 @@ if x > 10:
     print("but not above 20.")
 
 
+ i = 1
+while i < 6:
+  print(i)
+  if i == 3:
+    break
+  i += 1
+
+
 
 
 
