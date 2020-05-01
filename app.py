@@ -15,3 +15,4 @@ print("Array with Rank 2: \n", arr)
 arr = np.array((1, 3, 2))
 print("\nArray created using "
 	"passed tuple:\n", arr)
+
