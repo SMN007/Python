@@ -326,12 +326,7 @@ courses.pop() #pop is a usefull when you just want to removed the last item from
 print(courses)'''
 
 
-'''courses = ['History','Math','Physics','Computer']
 
-
-courses2 = courses.pop() #to to see which item is removed from the list (or if we to print out the pop item this is use full)
-
-print(courses2)'''
 
 
 
