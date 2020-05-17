@@ -326,6 +326,14 @@ courses.pop() #pop is a usefull when you just want to removed the last item from
 print(courses)'''
 
 
+'''courses = ['History','Math','Physics','Computer']
+
+
+courses.pop() #pop is a usefull when you just want to removed the last item from the list (like stack mathode)
+
+print(courses)'''
+
+
 
 
 
