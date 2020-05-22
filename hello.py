@@ -231,17 +231,7 @@ print(cs_courses.union(art_courses)) # print value without common value
 '''
 :Note:
 
-#Empty list
-empty_list = []
-empty_list = list()
 
-#Empty Tuples
-empty_tuple = ()
-empty_tuple = tuple()
-
-#Empty Sets
-empty_set = ()
-empty_set = set()
 
 
 
