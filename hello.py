@@ -227,14 +227,6 @@ print(cs_courses.intersection(art_courses)) # its use for check common values
 print(cs_courses.union(art_courses)) # print value without common value
 
 
-'''
-'''
-:Note:
-
-
-
-
-
 
 
 
