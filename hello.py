@@ -220,11 +220,6 @@ print('Math' in courses)
 
 '''
 '''
-cs_courses = {'History','Math','Physics','Computer'}
-art_courses = {'History','Math','Art','design'}
-
-print(cs_courses.intersection(art_courses)) # its use for check common values
-print(cs_courses.union(art_courses)) # print value without common value
 
 
 
