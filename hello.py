@@ -214,9 +214,6 @@ print(tuple_2)'''
 
 courses = {'History','Math','Physics','Computer','Math'}
 
-print(courses) # its removed duplicate vaiues Math
-
-
 
 
 
