@@ -212,8 +212,6 @@ print(tuple_2)'''
 
 '''# sets(set are values that are unordered and also have not duplicates)
 
-courses = {'History','Math','Physics','Computer','Math'}
-
 
 
 
