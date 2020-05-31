@@ -204,18 +204,6 @@ print(tuple_2)
 
 tuple_1[0] = 'Art'
 
-print(tuple_1) # it's give you a error('tuple' object does not support item assignment)
-# because it's immutable (can't change the value)
-print(tuple_2)'''
-
-
-
-
-
-
-
-
-
 
 
 
