@@ -199,9 +199,6 @@ print(list_2) # so the values is mutable in LIST
 tuple_1 = ('History','Math','Physics')
 tuple_2 = tuple_1
 
-print(tuple_1)
-print(tuple_2)
-
 
 
 
