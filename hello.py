@@ -195,8 +195,6 @@ print(list_2) # so the values is mutable in LIST
 
 
 
-'''#immptabel Example
-
 
 
 
