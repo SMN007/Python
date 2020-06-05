@@ -187,8 +187,6 @@ list_2 = list_1
 list_1 [0] ='Art' # The output are same because we l1 is asign in l2
 # in this way if we change something list_1 then the output will be changed as wall as l1
 
-print(list_1)
-print(list_2) # so the values is mutable in LIST
 
 
 
