@@ -184,9 +184,6 @@ print(new_list)'''
 '''list_1 = ['History','Math','Physics','Computer']
 list_2 = list_1
 
-list_1 [0] ='Art' # The output are same because we l1 is asign in l2
-# in this way if we change something list_1 then the output will be changed as wall as l1
-
 
 
 
