@@ -181,9 +181,6 @@ print(new_list)'''
 
 ## in puthon list is a mutable and tupple is'not
 
-'''list_1 = ['History','Math','Physics','Computer']
-list_2 = list_1
-
 
 
 
