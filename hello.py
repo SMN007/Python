@@ -172,8 +172,6 @@ for index,course in enumerate(courses,): #inderx of a value 1.
   print(index,course)'''
 '''courses = ['Math','Physics','Bio']
 
-course_str = ' - '.join(courses) #join any thing between in your list (like , - _ ) // this is a string
-
 
 
 
