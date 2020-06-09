@@ -176,12 +176,6 @@ course_str = ' - '.join(courses) #join any thing between in your list (like , - 
 
 new_list = course_str.split(' - ') # to make it a string to a list vslue ['a','b','c']
 
-print(new_list)'''
-
-
-## in puthon list is a mutable and tupple is'not
-
-
 
 
 
