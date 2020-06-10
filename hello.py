@@ -174,7 +174,6 @@ for index,course in enumerate(courses,): #inderx of a value 1.
 
 course_str = ' - '.join(courses) #join any thing between in your list (like , - _ ) // this is a string
 
-new_list = course_str.split(' - ') # to make it a string to a list vslue ['a','b','c']
 
 
 
