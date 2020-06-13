@@ -168,7 +168,6 @@ print('Math' in courses) # check the value is avelable or not in our list
 
 '''courses = ['Math','Physics','Bio']
 
-for index,course in enumerate(courses,): #inderx of a value 1.
 
 
 
