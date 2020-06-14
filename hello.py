@@ -166,8 +166,6 @@ print('Math' in courses) # check the value is avelable or not in our list
 
 '''
 
-'''courses = ['Math','Physics','Bio']
-
 
 
 
