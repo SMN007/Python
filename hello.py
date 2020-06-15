@@ -164,7 +164,6 @@ print('Art' in courses) #to check its exist or not(true or false)
 
 print('Math' in courses) # check the value is avelable or not in our list
 
-'''
 
 
 
