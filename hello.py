@@ -159,8 +159,7 @@ courses = ['History','Math','Physics','Computer']
 
 print('Art' in courses) #to check its exist or not(true or false)
 
-'''
-'''courses = ['Math','Physics','Bio']
+
 
 
 
