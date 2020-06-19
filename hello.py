@@ -155,8 +155,6 @@ print(courses.index('Computer')) #find out the index of a item in our list
 
 #what if I want to check the value is exict or not in our list
 
-courses = ['History','Math','Physics','Computer']
-
 
 
 
