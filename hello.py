@@ -150,9 +150,6 @@ print(num_min)
 
 '''courses = ['History','Math','Physics','Computer']
 
-print(courses.index('Computer')) #find out the index of a item in our list
-
-
 
 
 
