@@ -148,8 +148,6 @@ print(num_min)
 
 '''
 
-'''courses = ['History','Math','Physics','Computer']
-
 
 
 
