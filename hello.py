@@ -146,8 +146,6 @@ print(num_sum)
 print(num_min)
 
 
-'''
-
 
 
 
