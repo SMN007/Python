@@ -141,7 +141,6 @@ num_min = min(num)
 num_sum = sum(num)
 num_max = max(num)
 
-print(num_min)
 
 
 
