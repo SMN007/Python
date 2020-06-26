@@ -138,7 +138,6 @@ print(num2)'''
 num = [2,3,4,51,53,22,42,96,6]
 
 num_min = min(num)
-num_sum = sum(num)
 
 
 
