@@ -134,8 +134,6 @@ print(num2)'''
 
 '''
 
-# find out what is the min, max, and medium value of a list
-
 
 
 
