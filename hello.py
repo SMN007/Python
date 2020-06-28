@@ -135,10 +135,6 @@ print(num2)'''
 '''
 
 # find out what is the min, max, and medium value of a list
-num = [2,3,4,51,53,22,42,96,6]
-
-num_min = min(num)
-
 
 
 
