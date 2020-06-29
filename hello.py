@@ -132,8 +132,6 @@ num2=sorted(num) # this sorted function is return the sorted valued(2nd methode 
 
 print(num2)'''
 
-'''
-
 
 
 
