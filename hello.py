@@ -130,9 +130,6 @@ print(num)'''
 
 num2=sorted(num) # this sorted function is return the sorted valued(2nd methode other is sort)
 
-print(num2)'''
-
-
 
 
 
