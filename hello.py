@@ -128,7 +128,6 @@ print(num)'''
 
 '''num = [5,6.9,6.0,1,2,4,3,9,6]
 
-num2=sorted(num) # this sorted function is return the sorted valued(2nd methode other is sort)
 
 
 
