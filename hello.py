@@ -126,12 +126,6 @@ num.sort(reverse=True) #sort and reversed the number Z-A
 print(courses)
 print(num)'''
 
-'''num = [5,6.9,6.0,1,2,4,3,9,6]
-
-
-
-
-
 
 
 
