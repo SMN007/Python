@@ -121,7 +121,6 @@ print(num)'''
 num = [1,6.9,6.0,9,6]
 
 courses.sort() 
-num.sort(reverse=True) #sort and reversed the number Z-A
 
 
 
