@@ -120,8 +120,6 @@ print(num)'''
 '''courses = ['History','Math','Physics','Computer']
 num = [1,6.9,6.0,9,6]
 
-courses.sort() 
-
 
 
 
